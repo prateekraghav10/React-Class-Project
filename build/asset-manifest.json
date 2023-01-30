@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dc5ba46.css",
+    "main.js": "/static/js/main.0ad38295.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/static/js/787.e4e9b7ff.chunk.js",
+    "static/media/nature3.jpg": "/static/media/nature3.f1e1d2ce01ec357d29e5.jpg",
+    "static/media/nature_logo.png": "/static/media/nature_logo.7a3ddc828490931356aa.png",
+    "static/media/nature2.jpg": "/static/media/nature2.0fbdd6a3cda3bd34ede7.jpg",
+    "static/media/nature1.jpg": "/static/media/nature1.4c2537616f82b181220e.jpg",
+    "static/media/9PLITVICE.jpg": "/static/media/9PLITVICE.1e0228e1df855e7b2d4f.jpg",
+    "static/media/7GRAND.jpg": "/static/media/7GRAND.b4df908ca7bbb4a0df35.jpg",
+    "static/media/5WHITEHAVEN.jpg": "/static/media/5WHITEHAVEN.9486ab127b54c28defa2.jpg",
+    "static/media/4CAPPADOCIA.jpg": "/static/media/4CAPPADOCIA.67960148f40c1be539b9.jpg",
+    "static/media/6FAIRYPOOLS.jpg": "/static/media/6FAIRYPOOLS.16aa1d89a1c3e6576b5c.jpg",
+    "static/media/8HUACACHINA.jpg": "/static/media/8HUACACHINA.85cd913b6816347f6fd7.jpg",
+    "index.html": "/index.html",
+    "main.4dc5ba46.css.map": "/static/css/main.4dc5ba46.css.map",
+    "main.0ad38295.js.map": "/static/js/main.0ad38295.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc5ba46.css",
+    "static/js/main.0ad38295.js"
+  ]
+}
